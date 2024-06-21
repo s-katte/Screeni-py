@@ -1,0 +1,12 @@
+venv/
+build/
+dist/
+test/*.ini
+__pycache__/
+.vscode/
+*.xlsx
+stock*.pkl
+results*.pkl
+*.spec
+.DS_Store
+.history/
